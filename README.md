@@ -18,4 +18,4 @@ This repository contains my notes in Web3 by [METACRAFTERS](https://www.metacraf
 
 ## Course modules
 ### Javascript outline
-[Lesson 1]()
+[Lesson 1](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%201)
