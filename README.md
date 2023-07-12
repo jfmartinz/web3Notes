@@ -9,7 +9,7 @@ developers can access a world-class WebS education with
 immediate eaming and employment opportunities in the
 metaverse.
 
-This repository contains my notes in Web3 by [METACRAFTERS](https://www.metacrafters.io/).
+This repository contains my notes in Web3 from [METACRAFTERS](https://www.metacrafters.io/).
 
 ## Technologies 
 - Javascript
