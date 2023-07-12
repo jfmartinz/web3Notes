@@ -1,6 +1,24 @@
 # Lesson 1: Javascript Variables and Operators
 
 <!-- Table contents here make  -->
+## Table contents
+
+  [1. Comment Your JavaScript Code](#comment-your-javascript-code)<br>
+  [2. Declare JavaScript Variables](#declare-javascript-variables) 
+
+  * [Data](#data)
+  * [Variables](#variables)
+    
+[3. Storing Values with the Assignment Operator](#storing-values-with-the-assignment-operator)<br>
+[4. Assigning the Value of One Variable to Another](#assigning-the-value-of-one-variable-to-another)<br>
+[5. Initializing Variables with the Assignment Operator.](#initializing-variables-with-the-assignment-operator)<br>
+[6. Declare String Variables](#declare-string-variables)<br>
+[7. Understanding Case Sensitivity in Variables](#understanding-case-sensitivity-in-variables)
+
+  * [Best Practice](#best-practice)
+  
+[8. Explore Differences Between the var and let Keywords](#explore-differences-between-the-var-and-let-keywords)<br>
+[9. Declare a Read-Only Variable with the const Keyword](#declare-a-read-only-variable-with-the-const-keyword)
 
 
 ## Comment Your JavaScript Code
@@ -79,7 +97,7 @@ myNum = myVar;
 
 The above declares a `myVar` variable with no value, then assigns it the value 5. Next, a variable named `myNum` is declared with no value. Then, the contents of `myVar` (which is 5) is assigned to the variable `myNum`. Now, myNum also has the value of 5.
 
-## Initializing Variables with the Assignment Operator.
+## Initializing Variables with the Assignment Operator
 It is common to initialize a variable to an initial value in the same line as it is declared.
 
 ```js
