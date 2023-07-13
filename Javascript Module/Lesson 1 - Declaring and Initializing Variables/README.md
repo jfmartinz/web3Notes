@@ -1,4 +1,4 @@
-# Lesson 1: Javascript Variables and Operators
+# Lesson 1: Declaring and Initializing Variables
 
 <!-- Table contents here make  -->
 ## Table contents
