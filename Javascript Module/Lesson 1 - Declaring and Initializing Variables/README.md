@@ -1,7 +1,7 @@
 # Lesson 1: Declaring and Initializing Variables
 
 <!-- Table contents here make  -->
-## Table contents
+## Table of contents
 
   [1. Comment Your JavaScript Code](#comment-your-javascript-code)<br>
   [2. Declare JavaScript Variables](#declare-javascript-variables) 
