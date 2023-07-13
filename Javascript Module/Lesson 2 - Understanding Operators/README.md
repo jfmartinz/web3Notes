@@ -2,7 +2,19 @@
 
 <!-- Table contents here make  -->
 
-    
+## Table of contents
+[1. Add Two Numbers with Javascript](#add-two-numbers-with-javascript)<br>
+[2. Subtract One Number from Another with JavaScript](#subtract-one-number-from-another-with-javascript)<br>
+[3. Multiply Two Numbers with JavaScript](#multiply-two-numbers-with-javascript)<br>
+[4. Divide One Number by Another with JavaScript](#divide-one-number-by-another-with-javascript)<br>
+[5. Increment a Number with JavaScript](#increment-a-number-with-javascript)<br>
+[6. Decrement a Number with JavaScript](#decrement-a-number-with-javascript)<br>
+[7. Create Decimal Numbers with JavaScript](#create-decimal-numbers-with-javascript)<br>
+[8. Multiply Two Decimals with JavaScript](#multiply-two-decimals-with-javascript)<br>
+[9. Divide One Decimal by Another with JavaScript](#divide-one-decimal-by-another-with-javascript)<br>
+[10. Finding a Remainder in JavaScript](#finding-a-remainder-in-javascript)<br>
+
+* [Usage](#usage) 
 
 
 
