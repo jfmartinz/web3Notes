@@ -18,8 +18,8 @@
   * [Best Practice](#best-practice)
   
 [8. Explore Differences Between the var and let Keywords](#explore-differences-between-the-var-and-let-keywords)<br>
-[9. Declare a Read-Only Variable with the const Keyword](#declare-a-read-only-variable-with-the-const-keyword)
-
+[9. Declare a Read-Only Variable with the const Keyword](#declare-a-read-only-variable-with-the-const-keyword)<br>
+[10. Additional resource](#additional-resource)
 
 ## Comment Your JavaScript Code
 
