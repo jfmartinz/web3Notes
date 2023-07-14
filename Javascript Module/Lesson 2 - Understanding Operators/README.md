@@ -16,6 +16,8 @@
 
 * [Usage](#usage) 
 
+[11. Additional resources](#additional-resources)
+
 
 
 <!-- Table contents here make  -->
