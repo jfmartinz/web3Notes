@@ -150,3 +150,7 @@ In mathematics, a number can be checked to be even or odd by checking the remain
 48 % 2 = 0 (48 is Even)
 ```
 > Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
+
+## Additional resources
+- Visit the W3Schools website for more information about [Javascript Operators](https://www.w3schools.com/js/js_operators.asp)<br>
+- Visit the W3Schools website for more information about [JavaScript Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
