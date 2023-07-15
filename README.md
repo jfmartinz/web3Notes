@@ -13,9 +13,9 @@ This repository contains my notes in Web3 from [METACRAFTERS](https://www.metacr
 
 ## Technologies 
 This repository contains my notes on these 3 technologies
-- **Javascript:** JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
-- **Solidity:** Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. 
-- **Avalanche:** Avalanche is a decentralized, open-source proof of stake blockchain with smart contract functionality. AVAX is the native cryptocurrency of the platform.
+- **Javascript**<br> JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
+- **Solidity**<br> Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum. 
+- **Avalanche**<br> Avalanche is a decentralized, open-source proof of stake blockchain with smart contract functionality. AVAX is the native cryptocurrency of the platform.
 
 ## Course modules
 ### Javascript outline
