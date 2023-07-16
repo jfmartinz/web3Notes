@@ -1,5 +1,16 @@
 # All about Strings
 
+## Table of Contents
+[Escaping Literal Quotes in Strings](#escaping-literal-quotes-in-strings)<br>
+[Quoting Strings with Single Quotes](#quoting-strings-with-single-quotes)<br>
+[Escape Sequences in Strings](#escape-sequences-in-strings)<br>
+[Concatenating Strings with Plus Operator](#concatenating-strings-with-plus-operator)<br>
+[Concatenating Strings with the Plus Equals Operator](#concatenating-strings-with-the-plus-equals-operator)<br>
+[Constructing Strings with Variables](#constructing-strings-with-variables)<br>
+[Appending Variables to Strings](#appending-variables-to-strings)<br>
+[Find the Length of a String](#find-the-length-of-a-string)<br>
+[Understand String Immutability](#understand-string-immutability)
+
 
 ## Escaping Literal Quotes in Strings
 
