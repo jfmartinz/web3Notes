@@ -21,4 +21,5 @@ This repository contains my notes on these 3 technologies
 ### Javascript outline
 [Lesson 1 - Declaring and Initializing Variables](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%201%20-%20Declaring%20and%20Initializing%20Variables)<br>
 [Lesson 2 - Understanding Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%202%20-%20Understanding%20Operators)<br>
-[Lesson 3 - Compound Assignments](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%203%20-%20Compound%20Assignments)
+[Lesson 3 - Compound Assignments](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%203%20-%20Compound%20Assignments)<br>
+[Lesson 4 - All about Strings](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%204%20-%20All%20about%20Strings)<br>
