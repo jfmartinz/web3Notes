@@ -1,4 +1,4 @@
-# If Statements and Conditional Logic
+# Lesson 5: If Statements and Conditional Logic
 
 
 ## Table of Contents

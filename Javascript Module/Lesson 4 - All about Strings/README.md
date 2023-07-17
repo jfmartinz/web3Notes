@@ -1,4 +1,4 @@
-# All about Strings
+# Lesson 4: All about Strings
 
 ## Table of Contents
 [1. Escaping Literal Quotes in Strings](#escaping-literal-quotes-in-strings)<br>
