@@ -25,3 +25,4 @@ This repository contains my notes on these 3 technologies
 [Lesson 4 - All about Strings](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%204%20-%20All%20about%20Strings)<br>
 [Lesson 5 - If Statements and Conditional Logic](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%205%20-%20%20If%20Statements%20and%20Conditional%20Logic)<br>
 [Lesson 6 - The Switch Statement](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%206%20-%20The%20Switch%20Statement)<br>
+[Lesson 7 - Ternary Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Lesson%207%20-%20Ternary%20Operators)
