@@ -27,3 +27,9 @@ This repository contains my notes on these 3 technologies
 [Lesson 5 - If Statements and Conditional Logic](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%205%20-%20%20If%20Statements%20and%20Conditional%20Logic)<br>
 [Lesson 6 - The Switch Statement](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%206%20-%20The%20Switch%20Statement)<br>
 [Lesson 7 - Ternary Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%207%20-%20Ternary%20Operators)
+
+#### Module 2
+
+[Lesson 1 -  Introduction to Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%201%20-%20%20Introduction%20to%20Arrays)<br>
+[Lesson 2 - Manipulating Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%202%20-%20Manipulating%20Arrays)<br>
+[Lesson 3 -  Build JavaScript Objects](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%203%20-%20%20Build%20JavaScript%20Objects)
