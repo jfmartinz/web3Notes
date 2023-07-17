@@ -1,4 +1,4 @@
-# Lesson 3 - Compound Assignments
+# Lesson 3: Compound Assignments
 
 ## Table of Contents
 
