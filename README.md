@@ -33,3 +33,7 @@ This repository contains my notes on these 3 technologies
 [Lesson 1 -  Introduction to Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%201%20-%20%20Introduction%20to%20Arrays)<br>
 [Lesson 2 - Manipulating Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%202%20-%20Manipulating%20Arrays)<br>
 [Lesson 3 -  Build JavaScript Objects](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%203%20-%20%20Build%20JavaScript%20Objects)
+
+#### Module 3
+[Lesson 1 - JavaScript Functions](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%201%20-%20JavaScript%20Functions)<br>
+[Lesson 2 - JavaScript Loops](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%202%20-%20JavaScript%20Loops)
