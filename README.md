@@ -37,3 +37,6 @@ This repository contains my notes on these 3 technologies
 #### Module 3: Javascript Loops and Functions
 [Lesson 1 - JavaScript Functions](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%201%20-%20JavaScript%20Functions)<br>
 [Lesson 2 - JavaScript Loops](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%202%20-%20JavaScript%20Loops)
+
+#### Javascript Assessment
+[Final Javascript Assessment](https://github.com/jfmartinz/Create-a-NFT-Collection)
