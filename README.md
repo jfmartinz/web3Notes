@@ -19,7 +19,7 @@ This repository contains my notes on these 3 technologies
 
 ## Course modules
 ### Javascript outline
-#### Module 1
+#### Module 1: Javascript Variables and Operators
 [Lesson 1 - Declaring and Initializing Variables](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%201%20-%20Declaring%20and%20Initializing%20Variables)<br>
 [Lesson 2 - Understanding Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%202%20-%20Understanding%20Operators)<br>
 [Lesson 3 - Compound Assignments](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%203%20-%20Compound%20Assignments)<br>
@@ -28,12 +28,12 @@ This repository contains my notes on these 3 technologies
 [Lesson 6 - The Switch Statement](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%206%20-%20The%20Switch%20Statement)<br>
 [Lesson 7 - Ternary Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%207%20-%20Ternary%20Operators)
 
-#### Module 2
+#### Module 2: Javascript Arrays and Objects
 
 [Lesson 1 -  Introduction to Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%201%20-%20%20Introduction%20to%20Arrays)<br>
 [Lesson 2 - Manipulating Arrays](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%202%20-%20Manipulating%20Arrays)<br>
 [Lesson 3 -  Build JavaScript Objects](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%202%20-%20Javascript%20Arrays%20and%20Objects/Lesson%203%20-%20%20Build%20JavaScript%20Objects)
 
-#### Module 3
+#### Module 3: Javascript Loops and Functions
 [Lesson 1 - JavaScript Functions](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%201%20-%20JavaScript%20Functions)<br>
 [Lesson 2 - JavaScript Loops](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%203%20-%20Javascript%20Loops%20and%20Functions/Lesson%202%20-%20JavaScript%20Loops)
