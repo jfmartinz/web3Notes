@@ -40,3 +40,8 @@ This repository contains my notes on these 3 technologies
 
 #### Javascript Assessment
 [Final Javascript Assessment](https://github.com/jfmartinz/Create-a-NFT-Collection)
+
+
+### Solidity outline
+#### Module 1: Getting Started with Web3 and the Blockchain
+[Lesson 1 - Web3](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%201%20-%20Getting%20Started%20with%20Web3%20and%20the%20Blockchain/Lesson%201%20-%20Web3)
