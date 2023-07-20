@@ -1,25 +1,5 @@
 # Lesson 1: Declaring and Initializing Variables
 
-<!-- Table contents here make  -->
-## Table of contents
-
-  [1. Comment Your JavaScript Code](#comment-your-javascript-code)<br>
-  [2. Declare JavaScript Variables](#declare-javascript-variables) 
-
-  * [Data](#data)
-  * [Variables](#variables)
-    
-[3. Storing Values with the Assignment Operator](#storing-values-with-the-assignment-operator)<br>
-[4. Assigning the Value of One Variable to Another](#assigning-the-value-of-one-variable-to-another)<br>
-[5. Initializing Variables with the Assignment Operator.](#initializing-variables-with-the-assignment-operator)<br>
-[6. Declare String Variables](#declare-string-variables)<br>
-[7. Understanding Case Sensitivity in Variables](#understanding-case-sensitivity-in-variables)
-
-  * [Best Practice](#best-practice)
-  
-[8. Explore Differences Between the var and let Keywords](#explore-differences-between-the-var-and-let-keywords)<br>
-[9. Declare a Read-Only Variable with the const Keyword](#declare-a-read-only-variable-with-the-const-keyword)<br>
-[10. Additional resource](#additional-resource)
 
 ## Comment Your JavaScript Code
 

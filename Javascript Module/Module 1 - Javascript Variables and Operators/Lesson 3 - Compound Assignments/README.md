@@ -1,13 +1,5 @@
 # Lesson 3: Compound Assignments
 
-## Table of Contents
-
-[1. Compound Assignment With Augmented Addition](#compound-assignment-with-augmented-addition)<br>
-[2. Compound Assignment With Augmented Subtraction](#compound-assignment-with-augmented-subtraction)<br>
-[3. Compound Assignment With Augmented Multiplication](#compound-assignment-with-augmented-multiplication)<br>
-[4. Compound Assignment With Augmented Division](#compound-assignment-with-augmented-division)<br>
-[5. Additional resource](#additional-resource)
-
 ## Compound Assignment With Augmented Addition
 
 In programming, it is common to use assignments to modify the contents of a variable. Remember that everything to the right of the equals sign is evaluated first, so we can say:

@@ -1,26 +1,6 @@
 # Lesson 5: If Statements and Conditional Logic
 
 
-## Table of Contents
-
-[1. Understanding Boolean Values](#understanding-boolean-values)<br>
-[2. Use Conditional Logic with If Statements](#use-conditional-logic-with-if-statements)<br>
-[3. Comparison with the Equality Operator](#comparison-with-the-equality-operator)<br>
-[4. Comparison with the Strict Equality Operator](#comparison-with-the-strict-equality-operator)<br>
-[5. Comparison with the Inequality Operator](#comparison-with-the-inequality-operator)<br>
-[6. Comparison with the Strict Inequality Operator](#comparison-with-the-strict-inequality-operator)<br>
-[7.Comparison with the Greater Than Operator](#comparison-with-the-greater-than-operator)<br>
-[8. Comparison with the Greater Than Or Equal To Operator](#comparison-with-the-greater-than-or-equal-to-operator)<br>
-[9. Comparison with the Less Than Operator](#comparison-with-the-less-than-operator)<br>
-[10. Comparison with the Less Than Or Equal To Operator](#comparison-with-the-less-than-or-equal-to-operator)<br>
-[11. Comparisons with the Logical And Operator](#comparisons-with-the-logical-and-operator)<br>
-[12. Comparisons with the Logical Or Operator](#comparisons-with-the-logical-or-operator)<br>
-[13. Introducing Else Statements](#introducing-else-statements)<br>
-[14. Introducing Else If Statements](#introducing-else-if-statements)<br>
-[15. Logical Order in If Else Statements](#logical-order-in-if-else-statements)<br>
-[16.Chaining If Else Statements](#chaining-if-else-statements)<br>
-[17. Additional resources](#additional-resources)
-
 ## Understanding Boolean Values
 Another data type is the Boolean. Booleans may only be one of two values: `true` or `false`. They are basically little on-off switches, where *true is on* and *false is off*. These two states are mutually exclusive.
 

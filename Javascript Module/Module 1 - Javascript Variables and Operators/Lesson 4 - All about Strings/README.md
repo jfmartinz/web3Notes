@@ -1,16 +1,5 @@
 # Lesson 4: All about Strings
 
-## Table of Contents
-[1. Escaping Literal Quotes in Strings](#escaping-literal-quotes-in-strings)<br>
-[2. Quoting Strings with Single Quotes](#quoting-strings-with-single-quotes)<br>
-[3. Escape Sequences in Strings](#escape-sequences-in-strings)<br>
-[4. Concatenating Strings with Plus Operator](#concatenating-strings-with-plus-operator)<br>
-[5. Concatenating Strings with the Plus Equals Operator](#concatenating-strings-with-the-plus-equals-operator)<br>
-[6. Constructing Strings with Variables](#constructing-strings-with-variables)<br>
-[7. Appending Variables to Strings](#appending-variables-to-strings)<br>
-[8. Find the Length of a String](#find-the-length-of-a-string)<br>
-[9. Understand String Immutability](#understand-string-immutability)
-
 
 ## Escaping Literal Quotes in Strings
 
