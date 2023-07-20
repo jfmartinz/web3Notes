@@ -1,4 +1,4 @@
-# Lesson 2 - Blockchain
+# Lesson 2: Blockchain
 
 ## Introduction
 
