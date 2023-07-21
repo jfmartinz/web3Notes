@@ -49,5 +49,5 @@ This repository contains my notes on these 3 technologies
 [Lesson 2 - Blockchain](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%201%20-%20Getting%20Started%20with%20Web3%20and%20the%20Blockchain/Lesson%202%20-%20Blockchain)<br>
 
 
-#### Module 2 - Ethereum and the Ethereum Virtual Machine (EVM)
+#### Module 2: Ethereum and the Ethereum Virtual Machine (EVM)
 [Lesson 1 - Ethereum and EVMs](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%202%20-%20Ethereum%20and%20the%20Ethereum%20Virtual%20Machine%20(EVM)/Lesson%201%20-%20Ethereum%20and%20EVMs)
