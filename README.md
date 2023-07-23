@@ -11,6 +11,8 @@ metaverse.
 
 This repository contains my notes in Web3 from [METACRAFTERS](https://www.metacrafters.io/).
 
+> 🌐 Connect with Me: [Twitter](https://twitter.com/jfmartinz) && [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
+
 ## Technologies 
 This repository contains my notes on these 3 technologies
 - **Javascript**<br> JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
