@@ -52,3 +52,7 @@ This repository contains my notes on these 3 technologies
 #### Module 2: Ethereum and the Ethereum Virtual Machine (EVM)
 [Lesson 1 - Ethereum and EVMs](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%202%20-%20Ethereum%20and%20the%20Ethereum%20Virtual%20Machine%20(EVM)/Lesson%201%20-%20Ethereum%20and%20EVMs)<br>
 [Lesson 2 - Real World Use Cases and dApps](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%202%20-%20Ethereum%20and%20the%20Ethereum%20Virtual%20Machine%20(EVM)/Lesson%202%20-%20Real%20World%20Use%20Cases%20and%20dApps)<br>
+
+
+#### Module 3: Getting Started with Solidity
+[Lesson 1 - Introduction to Solidity](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%203%20-%20Getting%20Started%20with%20Solidity/Lesson%201%20-%20Introduction%20to%20Solidity)<br>
