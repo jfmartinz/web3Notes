@@ -18,7 +18,7 @@ Constants can help us! Have a variable that you set once, and it never changes? 
 
 Here's what you need to know. Watch this [video](https://youtu.be/y5uiQ9IJhMc)<br>
 
-## Ether and Wei
+### Ether and Wei
 
 The smallest unit of ether is called a wei , and there are 1,000,000,000,000,000,000 wei in one ether (x18 decimal zeros 0 s = 1 quintillion). To make it as simple as possible, we can break down ether units into two parts on both sides: smaller and larger units.
 
