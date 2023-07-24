@@ -105,3 +105,5 @@ We can have modifiers that can pass any parameters or arguments. Below is an exa
 ```
 
 > Best Practices: Place modifier code after state variable declarations and ideally before function declarations for more legible code.
+
+
