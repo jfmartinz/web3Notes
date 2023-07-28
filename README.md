@@ -61,3 +61,6 @@ This repository contains my notes on these 3 technologies
 [Lesson 2 - Primitive Data Types in Solidity](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%203%20-%20Getting%20Started%20with%20Solidity/Lesson%202%20-%20Primitive%20Data%20Types%20in%20Solidity)<br>
 [Lesson 3 - Arrays, Structs, Mapping, Gas and Conditional Statements](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%203%20-%20Getting%20Started%20with%20Solidity/Lesson%203%20-%20Arrays%2C%20Structs%2C%20Mapping%2C%20Gas%20and%20Conditional%20Statements)<br>
 [Lesson 4 - Looping Statements and Functions](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%203%20-%20Getting%20Started%20with%20Solidity/Lesson%204%20-%20Looping%20Statements%20and%20Functions)
+
+#### Solidity Assessment
+[Final Solidity Assessment](https://github.com/jfmartinz/Create-a-Token)
