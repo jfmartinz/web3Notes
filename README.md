@@ -64,3 +64,11 @@ This repository contains my notes on these 3 technologies
 
 #### Solidity Assessment
 [Final Solidity Assessment](https://github.com/jfmartinz/Create-a-Token)
+
+---
+
+### ETH + AVAX PROOF: Intermediate EVM Course
+
+#### Module 1: Functions and Errors - ETH + AVAX
+[Lesson 1 - Modifiers](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Modifiers)<br>
+[Lesson 2 - Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Functions)<br>
