@@ -20,7 +20,7 @@ This repository contains my notes on these 3 technologies
 - **Avalanche**<br> Avalanche is a decentralized, open-source proof of stake blockchain with smart contract functionality. AVAX is the native cryptocurrency of the platform.
 
 ## Course modules
-### Javascript outline
+### JS PROOF: Beginner Course
 #### Module 1: Javascript Variables and Operators
 [Lesson 1 - Declaring and Initializing Variables](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%201%20-%20Declaring%20and%20Initializing%20Variables)<br>
 [Lesson 2 - Understanding Operators](https://github.com/jfmartinz/web3Notes/tree/main/Javascript%20Module/Module%201%20-%20Javascript%20Variables%20and%20Operators/Lesson%202%20-%20Understanding%20Operators)<br>
@@ -45,7 +45,7 @@ This repository contains my notes on these 3 technologies
 
 ---
 
-### Solidity outline
+### ETH PROOF: Beginner EVM Course
 #### Module 1: Getting Started with Web3 and the Blockchain
 [Lesson 1 - Web3](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%201%20-%20Getting%20Started%20with%20Web3%20and%20the%20Blockchain/Lesson%201%20-%20Web3)<br>
 [Lesson 2 - Blockchain](https://github.com/jfmartinz/web3Notes/tree/main/Solidity%20Module/Module%201%20-%20Getting%20Started%20with%20Web3%20and%20the%20Blockchain/Lesson%202%20-%20Blockchain)<br>
