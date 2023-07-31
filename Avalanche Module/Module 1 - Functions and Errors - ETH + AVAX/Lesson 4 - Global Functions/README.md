@@ -6,7 +6,7 @@ There are four important global functions we'll cover in this lesson:
 
 - Address
 - Block
-- ransaction
+- Transaction
 - Message
 
 ## Global Functions in the Address Context
