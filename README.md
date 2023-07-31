@@ -76,3 +76,7 @@ This repository contains my notes on these 3 technologies
 [Lesson 4 - Global Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%204%20-%20Global%20Functions)<br>
 [Lesson 5 - Exception Handling](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%205%20-%20Exception%20Handling)<br>
 [Project](https://github.com/jfmartinz/functionErrors)<br>
+
+#### Module 2: Smart Contract Management - ETH + AVAX
+[Lesson 1 - Types of Memory in Solidity](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%202%20-%20Smart%20Contract%20Management%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Types%20of%20Memory%20in%20Solidity)<br>
+[Lesson 2 - Proxy contracts Upgradeable contracts](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%202%20-%20Smart%20Contract%20Management%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Proxy%20contracts%20Upgradeable%20contracts)<br>
