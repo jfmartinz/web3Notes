@@ -72,3 +72,6 @@ This repository contains my notes on these 3 technologies
 #### Module 1: Functions and Errors - ETH + AVAX
 [Lesson 1 - Modifiers](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Modifiers)<br>
 [Lesson 2 - Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Functions)<br>
+[Lesson 3 - Events](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%203%20-%20Events)<br>
+[Lesson 4 - Global Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%204%20-%20Global%20Functions)<br>
+[Lesson 5 - Exception Handling](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%201%20-%20Functions%20and%20Errors%20-%20ETH%20%2B%20AVAX/Lesson%205%20-%20Exception%20Handling)<br>
