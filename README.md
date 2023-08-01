@@ -82,3 +82,7 @@ This repository contains my notes on these 3 technologies
 [Lesson 2 - Proxy contracts Upgradeable contracts](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%202%20-%20Smart%20Contract%20Management%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Proxy%20contracts%20Upgradeable%20contracts)<br>
 [Lesson 3 -  Connect your Dapp to Metamask wallet](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%202%20-%20Smart%20Contract%20Management%20-%20ETH%20%2B%20AVAX/Lesson%203%20-%20%20Connect%20your%20Dapp%20to%20Metamask%20wallet)<br>
 [Lesson 4 - Smart Contract Frontend Integration](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%202%20-%20Smart%20Contract%20Management%20-%20ETH%20%2B%20AVAX/Lesson%204%20-%20Smart%20Contract%20Frontend%20Integration)<br>
+
+#### Module 3: Types of Functions - ETH + AVAX
+
+[Lesson 1 - Fallback and Payable Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Fallback%20and%20Payable%20Functions)<br>
