@@ -86,3 +86,5 @@ This repository contains my notes on these 3 technologies
 #### Module 3: Types of Functions - ETH + AVAX
 
 [Lesson 1 - Fallback and Payable Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Fallback%20and%20Payable%20Functions)<br>
+[Lesson 2 - Abstract Contracts and Interface](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Abstract%20Contracts%20and%20Interface)<br>
+[Lesson 3 - View and Pure Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%203%20-%20View%20and%20Pure%20Functions)<br>
