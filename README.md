@@ -89,3 +89,8 @@ This repository contains my notes on these 3 technologies
 [Lesson 2 - Abstract Contracts and Interface](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20Abstract%20Contracts%20and%20Interface)<br>
 [Lesson 3 - View and Pure Functions](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%203%20-%20View%20and%20Pure%20Functions)<br>
 [Lesson 4 - Override Extend ERC20 contracts](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%203%20-%20Types%20of%20Functions%20-%20ETH%20%2B%20AVAX/Lesson%204%20-%20Override%20Extend%20ERC20%20contracts)<br>
+
+#### Module 4 - Building on Avalanche - ETH + AVAX
+
+[Lesson 1 - Beyond Ethereum](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%204%20-%20Building%20on%20Avalanche%20-%20ETH%20%2B%20AVAX/Lesson%201%20-%20Beyond%20Ethereum)<br>
+[Lesson 2 -  Introduction to Avalanche](https://github.com/jfmartinz/web3Notes/tree/main/Avalanche%20Module/Module%204%20-%20Building%20on%20Avalanche%20-%20ETH%20%2B%20AVAX/Lesson%202%20-%20%20Introduction%20to%20Avalanche)<br>
